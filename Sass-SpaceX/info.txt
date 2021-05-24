@@ -1,3 +1,8 @@
+ToDo
+Revoir les liens du menu
+
+
+/*************************/
 on install sass 
 on definis dans le fichier json
 on fait un npm run sass 
