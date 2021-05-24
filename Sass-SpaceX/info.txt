@@ -1,0 +1,47 @@
+on install sass 
+on definis dans le fichier json
+on fait un npm run sass 
+
+Next to 13 minutes
+
+21/05/2021
+target="blank" // veut dire qu'on ouvre le lien sur une nouvelle page.
+
+alt-z pour mettre une ligne CSS trop longue "a la ligne"
+
+pseudo classe 
+:hover : quand le curseur de la souris passe dessus
+:active : quand la souris clique dessus
+
+/**** 39minute ****/
+Les gradients UI grandient / 
+
+body>before 
+
+/****** 49 minutes *****/
+Caroussel
+BEM block element model
+
+    <div class="carousel"> Blok
+        <div class="carousel__figure"> Element 
+            <img src="" alt="" class="carousel__figure--pic"> Model
+            <img src="" alt="" class="carousel__figure--pic">
+            <img src="" alt="" class="carousel__figure--pic">
+        </div>
+    </div>
+
+image slider maker . com
+
+npm run sass a chaque deconnection
+
+/************ 1h11 *******/
+Thumbnail 3D
+
+z-index place un qualque devant derriere ..
+
+
+scriptJS pour que le mouvement de la souris suis l'élément
+
+/********** 1h38 *********/ 
+
+Boutton GetStarted 
